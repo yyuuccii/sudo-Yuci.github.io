@@ -20,10 +20,11 @@ redirect_from:
 # 🤖 SKILLS
 
 **Programming Languages**: Python, SQL
+**Programming Frameworks:** PyTorch, Sklearn, Transformers, NLTK, Huggingface, Pandas, NumPy, Matplotlib, Seaborn
+**Technologies:** Sentiment Analysis, Text Classification, Text Generation, Image Classification, Supervised Learning, Hyperparameter Tuning
+**Languages:** Mandarin Chinese (Native), English (C1), German(A2-B1) 
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
-
-## 📜 Reimplementing and Reproducing Papers
+## 📜 EXAMPLE REPORTS/PROJECTS
 I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
 
 To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
