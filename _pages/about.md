@@ -17,10 +17,11 @@ redirect_from:
 📚 My study focuses on Natural Language Processing, with additional knowledge in Machine Learning and Data Science.
 
 
-# Projects
+# 🤖 SKILLS
 
-## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+**Programming Languages**
+- Python
+- SQL
 
 Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
 
