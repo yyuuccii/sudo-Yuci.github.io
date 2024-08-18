@@ -17,7 +17,7 @@ redirect_from:
 📚 My study focuses on Natural Language Processing, with additional knowledge in Machine Learning and Data Science.
 
 
-# 🤖 SKILLS
+## 🤖 SKILLS
 
 **Programming Languages**: Python, SQL
 
