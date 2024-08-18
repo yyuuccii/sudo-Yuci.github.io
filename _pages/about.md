@@ -13,6 +13,7 @@ redirect_from:
 
 
 👩‍💻 I'm a master's student in Computational Linguistics at Saarland University.
+
 📚 My study focuses on Natural Language Processing, with additional knowledge in Machine Learning and Data Science.
 
 
