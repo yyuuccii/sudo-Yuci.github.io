@@ -17,7 +17,7 @@ redirect_from:
 📚 My study focuses on Natural Language Processing, with additional knowledge in Machine Learning and Data Science.
 
 
-# Selected Experience
+# Projects
 
 ## 🤖 Open Source Contributions
 I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
