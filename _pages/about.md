@@ -33,10 +33,7 @@ redirect_from:
 ## 📝 COURSEWORK
 **Relevant Master's Courses:** Foundation of Mathematics, Computational Linguistics, Machine Translation, Computational Psycholinguistics, Python, Data Science
 
-## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
-
-
+## ⌛️ WORK EXPERIENCE
 
 
 
