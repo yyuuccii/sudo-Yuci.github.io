@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
-
-#![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
 👩‍💻 I'm a master's student in Computational Linguistics at Saarland University.
 
-📚 I'm currently in my 4th-semester.
+📚 My study focuses on NLP, with additional knowledge in Machine Learning and Data Science.
 
-#📽️ My study focuses on I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
 # Selected Experience
 
