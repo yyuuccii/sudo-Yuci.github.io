@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-👩‍💻 I'm a master's student in Computational Linguistics at Saarland University.
 
-📚 My study focuses on NLP, with additional knowledge in Machine Learning and Data Science.
+
+
+
+👩‍💻 I'm a master's student in Computational Linguistics at Saarland University.
+📚 My study focuses on Natural Language Processing, with additional knowledge in Machine Learning and Data Science.
 
 
 # Selected Experience
