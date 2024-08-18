@@ -28,8 +28,7 @@ redirect_from:
 **Languages:** Mandarin Chinese (Native), English (C1), German(A2-B1) 
 
 ## 📜 EXAMPLE REPORTS/PROJECTS
-- **Comparative Analysis of BERT Variants on Sentiment Analysis:** Compare BERT-base with RoBERTa, DistilBERT, and ALBERT by adding one linear layer to the pre-trained models, focusing on their performance and efficiency in sentiment analysis. Metrics like accuracy, F1-scores, and training time were used for evaluation. 
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results. [https://drive.google.com/file/d/13RJ4inZYD4eEdOVK9lHhEQ64VAs1WgSs/view].
+- **Comparative Analysis of BERT Variants on Sentiment Analysis:** Compare BERT-base with RoBERTa, DistilBERT, and ALBERT by adding one linear layer to the pre-trained models, focusing on their performance and efficiency in sentiment analysis. Metrics like accuracy, F1-scores, and training time were used for evaluation [https://drive.google.com/file/d/13RJ4inZYD4eEdOVK9lHhEQ64VAs1WgSs/view].
 
 ## 👨🏻‍🔬 Professional Experience
 Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
