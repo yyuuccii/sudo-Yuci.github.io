@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "🌼 Hello, I'm Yuci! 🌼"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,14 +10,12 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+#![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+👩‍💻 I'm a master's student in Computational Linguistics at Saarland University.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+📚 I'm currently in my 4th-semester.
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+#📽️ My study focuses on I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
 # Selected Experience
 
