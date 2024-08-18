@@ -28,7 +28,7 @@ redirect_from:
 **Languages:** Mandarin Chinese (Native), English (C1), German(A2-B1) 
 
 ## 💻 EXAMPLE REPORTS/PROJECTS
-- **Comparative Analysis of BERT Variants on Sentiment Analysis:** Compare BERT-base with RoBERTa, DistilBERT, and ALBERT by adding one linear layer to the pre-trained models, focusing on their performance and efficiency in sentiment analysis. Metrics like accuracy, F1-scores, and training time were used for evaluation [https://drive.google.com/file/d/13RJ4inZYD4eEdOVK9lHhEQ64VAs1WgSs/view].
+- **Comparative Analysis of BERT Variants on Sentiment Analysis:** Compare BERT-base with RoBERTa, DistilBERT, and ALBERT by adding one linear layer to the pre-trained models, focusing on their performance and efficiency in sentiment analysis. Metrics like accuracy, F1-scores, and training time were used for evaluation [Comparative Analysis of BERT Variants on Sentiment Analysis](https://drive.google.com/file/d/13RJ4inZYD4eEdOVK9lHhEQ64VAs1WgSs/view).
 
 ## 📝 COURSEWORK
 **Relevant Master's Courses:** Foundation of Mathematics, Computational Linguistics, Machine Translation, Computational Psycholinguistics, Python, Data Science
