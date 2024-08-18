@@ -19,9 +19,7 @@ redirect_from:
 
 # 🤖 SKILLS
 
-**Programming Languages**
-- Python
-- SQL
+**Programming Languages**: Python, SQL
 
 Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
 
