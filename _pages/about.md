@@ -18,6 +18,7 @@ redirect_from:
 
 ## 💻 EXAMPLE REPORTS/PROJECTS
 - **[Comparative Analysis of BERT Variants on Sentiment Analysis](https://drive.google.com/file/d/13RJ4inZYD4eEdOVK9lHhEQ64VAs1WgSs/view):** Compare BERT-base with RoBERTa, DistilBERT, and ALBERT by adding one linear layer to the pre-trained models, focusing on their performance and efficiency in sentiment analysis. Metrics like accuracy, F1-scores, and training time were used for evaluation.
+- **[IT Service Ticket Classification with DistilBERT](https://github.com/yyuuccii/TextClassification_ITService/tree/main):** Classify IT service tickets into predefined categories by the descriptions of IT problems using a DistilBERT-based model. he model architecture includes a pre-trained DistilBERT as a feature extractor, followed by a custom classifier composed of fully connected layers with ReLU activations and dropout for regularization, achieving a test accuracy of 74.73%.
 
 ## 🤖 SKILLS
 
