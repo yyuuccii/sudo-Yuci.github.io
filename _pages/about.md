@@ -18,7 +18,8 @@ redirect_from:
 
 ## 💻 EXAMPLE REPORTS/PROJECTS
 - **[Comparative Analysis of BERT Variants on Sentiment Analysis](https://drive.google.com/file/d/13RJ4inZYD4eEdOVK9lHhEQ64VAs1WgSs/view):** Compare BERT-base with RoBERTa, DistilBERT, and ALBERT by adding one linear layer to the pre-trained models, focusing on their performance and efficiency in sentiment analysis. Metrics like accuracy, F1-scores, and training time were used for evaluation.
-- **[IT Service Ticket Classification with DistilBERT](https://github.com/yyuuccii/TextClassification_ITService/tree/main):** Classify IT service tickets into predefined categories by the descriptions of IT problems using a DistilBERT-based model. he model architecture includes a pre-trained DistilBERT as a feature extractor, followed by a custom classifier composed of fully connected layers with ReLU activations and dropout for regularization, achieving a test accuracy of 74.73%.
+- **[IT Service Ticket Classification with DistilBERT](https://github.com/yyuuccii/TextClassification_ITService/tree/main):** Classify IT service tickets into predefined categories by the descriptions of IT problems using a DistilBERT-based model. The model architecture includes a pre-trained DistilBERT as a feature extractor, followed by a custom classifier composed of fully connected layers with ReLU activations and dropout for regularization, achieving a test accuracy of 74.73%.
+- **[Yoga Pose Classification with custom CNN, ResNet50, and MobileNet](https://github.com/yyuuccii/ImageClassification_YogaPose):** Explore yoga pose classification using three models: a custom CNN, ResNet50, and MobileNet. The custom CNN, designed with four convolutional layers and five fully connected layers, achieves a test accuracy of approximately 55.24%. The ResNet50 and MobileNet model, leveraging pretrained weights with fine-tuning, reaches a test accuracy of around 72.18% and 70.97%, respectively.
 
 ## 🤖 SKILLS
 
