@@ -35,7 +35,6 @@ redirect_from:
 ## 📝 COURSEWORK
 **Relevant Master's Courses:** Foundation of Mathematics, Computational Linguistics, Machine Translation, Computational Psycholinguistics, Python, Data Science
 
-## ⌛️ WORK EXPERIENCE
 
 
 
