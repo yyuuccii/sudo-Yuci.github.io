@@ -33,7 +33,7 @@ redirect_from:
 
 ## 🤖 SKILLS
 
-* **Programming Languages**: Python, SQL
+* **Programming Languages**: Python
 * **Programming Frameworks:** PyTorch, Sklearn, Transformers, NLTK, HuggingFace, Pandas, NumPy, Matplotlib, Seaborn, Langchain, Flask
 * **Technologies:** Sentiment Analysis, Text Classification, Text Generation, Image Classification, Supervised Learning, Hyperparameter Tuning
 * **Languages:** Mandarin Chinese (Native), English (C1-C2), German(A2-B1) 
