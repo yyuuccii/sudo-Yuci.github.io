@@ -27,6 +27,8 @@ redirect_from:
 - [Job Application Generator Using Langchain and LLM](https://github.com/yyuuccii/JobApplicationGenerator): Generate a personalized application letter for a job position with Langchain. It involves using the Llama-3.1-70b-versatile version to extract job details from a job description, converting the information into a vector database using chromdb for similarity search between relevant projects and query (job description), and creating a tailored application letter using the same LLM.
 - [Comparative Analysis of BERT Variants on Sentiment Analysis](https://drive.google.com/file/d/13RJ4inZYD4eEdOVK9lHhEQ64VAs1WgSs/view): Compare BERT-base with RoBERTa, DistilBERT, and ALBERT by adding one linear layer to the pre-trained models, focusing on their performance and efficiency in sentiment analysis. Metrics like accuracy, F1-scores, and training time were used for evaluation.
 - [IT Service Ticket Classification with DistilBERT](https://github.com/yyuuccii/TextClassification_ITService/tree/main): Classify IT service tickets into predefined categories by the descriptions of IT problems using a DistilBERT-based model. The model architecture includes a pre-trained DistilBERT as a feature extractor, followed by a custom classifier composed of fully connected layers with ReLU activations and dropout for regularization, achieving a test accuracy of 74.73%.
+- [Expense Tracker with Flask and Streamlit]([https://github.com/yyuuccii/TextClassification_ITService/tree/main](https://github.com/yyuuccii/ExpenseTracker)): A web application that helps users manage their finances by tracking income and expenses. Built with Streamlit for the frontend and Flask for the backend.
+
 
 ### Computer Vision  
 - [Yoga Pose Classification with custom CNN, ResNet50, and MobileNet](https://github.com/yyuuccii/ImageClassification_YogaPose): Explore yoga pose classification using three models: a custom CNN, ResNet50, and MobileNet. The custom CNN, designed with four convolutional layers and five fully connected layers, achieves a test accuracy of approximately 55.24%. The ResNet50 and MobileNet model, leveraging pretrained weights with fine-tuning, reaches a test accuracy of around 72.18% and 70.97%, respectively.
@@ -35,7 +37,7 @@ redirect_from:
 
 * **Programming Languages**: Python
 * **Programming Frameworks:** PyTorch, Sklearn, Transformers, NLTK, HuggingFace, Pandas, NumPy, Matplotlib, Seaborn, Langchain, Flask
-* **Technologies:** Sentiment Analysis, Text Classification, Text Generation, Image Classification, Supervised Learning, Hyperparameter Tuning
+* **Technologies:** Sentiment Analysis, Text Classification, Text Generation, Image Classification, Supervised Learning
 * **Languages:** Mandarin Chinese (Native), English (C1-C2), German(A2-B1) 
 
 ## 📝 COURSEWORK
